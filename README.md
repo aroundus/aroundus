@@ -15,8 +15,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=aroundus&icon_color=9e9e9e&text_color=616161&hide_border=true&hide_title=true&show_icons=true&hide_rank=true&include_all_commits=true" alt="aroundus" />
 </div>
 <div align="center">
-  <a href="https://instagram.com/__specialguest" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="__specialguest" height="28" width="28" />
+  <a href="https://instagram.com/everything.is.meaningful" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="everything.is.meaningful" height="28" width="28" />
   </a>
 </div>
 <hr />
